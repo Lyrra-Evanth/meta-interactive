@@ -14,7 +14,7 @@ BaileysPro tidak memerlukan Selenium atau browser lain untuk berinteraksi dengan
 ### TOLONG BACA
 Repositori asli harus dihapus oleh penulis asli kami sekarang melanjutkan pengembangan repositori ini di sini. Ini adalah salah satu repositori asli milik MzArth Staff Davelopment. di modifikasi dan dipelihara oleh zarv7z & Lin'h
 
-![My Card ](https://cardivo.vercel.app/api?name=LyrraEvanthMeta%20&description=”aku%20hanya%20bisa%20memprogram%20nya,%20jika%20kodenya%20sudah%20benar,%20program%20itu%20akan%20berjalan%20sesuai,%20keinginan%20pemilik%20aslinya”%20(%20tapi%20ini%20bukan%20soal%20programnya%20)&image=https://b.top4top.io/p_2090f6xvx0.jpg&backgroundColor=%23ecf0f1&instagram=@Lyrra-Evanth&github=Lyrra&pattern=leaf&colorPattern=%23eaeaea)
+![My Card ](https://cardivo.vercel.app/api?name=Lyrra%20Evanth%20&description=”Hanya%20ingin%20menjadi%20seorang%20programmer%20ahli,%20meskipun%20tanpa%20guru%20atau%20bantuan%20dari%20siapapun,%20hanya%20melakukan%20karena%20itu%20hoby%20saya”%20&image=https://files.catbox.moe/oz6oil.png&backgroundColor=%23ecf0f1&instagram=@Lyrra-Evanth&github=Lyrra&pattern=leaf&colorPattern=%23eaeaea)
 
 ___
 
